@@ -19,7 +19,7 @@ Cette base de données permet :
 - D'explorer les morceaux d'un artiste
 - De combiner des critères (ex : morceaux metalcore + plus de 3 minutes + appartenant à un album d'un artiste précis)
 
-Le projet se concentre sur un ensemble manuel d'artistes metal/rock connus, afin d'avoir un ensemble cohérent et pertinent pour ce type d'exploration musicale.
+Le projet se concentre sur une sélection ciblée d’artistes issus des scènes metal et rock, choisie pour garantir la cohérence stylistique et la pertinence des résultats dans le cadre de l’exploration musicale par genre.
 
 ---
 
