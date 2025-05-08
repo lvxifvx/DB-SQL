@@ -1,7 +1,7 @@
 # Music Genre Recommender DB
-Projet final du cours CS50 SQL
+Laïfa AHMED-YAHIA M1 – DS2E
 
-Par Laïfa AHMED-YAHIA M1 – DS2E
+Projet final du cours CS50 SQL
 
 ---
 
