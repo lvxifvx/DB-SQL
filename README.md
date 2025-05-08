@@ -1,4 +1,4 @@
-# DB-SQL
+# Music Genre Recommender DB
 Projet final du cours CS50 SQL
 
 ---
